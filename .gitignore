@@ -1,5 +1,12 @@
 # Prerequisites
 *.d
+*.dir/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.cmake
+
 
 # Compiled Object files
 *.slo
